@@ -1,0 +1,15 @@
+/Users/christoffer/Programming/dotnet/Wordler/bin/Debug/net5.0/Wordler.deps.json
+/Users/christoffer/Programming/dotnet/Wordler/bin/Debug/net5.0/Wordler.runtimeconfig.json
+/Users/christoffer/Programming/dotnet/Wordler/bin/Debug/net5.0/Wordler.runtimeconfig.dev.json
+/Users/christoffer/Programming/dotnet/Wordler/bin/Debug/net5.0/Wordler.dll
+/Users/christoffer/Programming/dotnet/Wordler/bin/Debug/net5.0/ref/Wordler.dll
+/Users/christoffer/Programming/dotnet/Wordler/bin/Debug/net5.0/Wordler.pdb
+/Users/christoffer/Programming/dotnet/Wordler/obj/Debug/net5.0/Wordler.csproj.AssemblyReference.cache
+/Users/christoffer/Programming/dotnet/Wordler/obj/Debug/net5.0/Wordler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christoffer/Programming/dotnet/Wordler/obj/Debug/net5.0/Wordler.AssemblyInfoInputs.cache
+/Users/christoffer/Programming/dotnet/Wordler/obj/Debug/net5.0/Wordler.AssemblyInfo.cs
+/Users/christoffer/Programming/dotnet/Wordler/obj/Debug/net5.0/Wordler.csproj.CoreCompileInputs.cache
+/Users/christoffer/Programming/dotnet/Wordler/obj/Debug/net5.0/Wordler.dll
+/Users/christoffer/Programming/dotnet/Wordler/obj/Debug/net5.0/ref/Wordler.dll
+/Users/christoffer/Programming/dotnet/Wordler/obj/Debug/net5.0/Wordler.pdb
+/Users/christoffer/Programming/dotnet/Wordler/obj/Debug/net5.0/Wordler.genruntimeconfig.cache
